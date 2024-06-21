@@ -333,12 +333,12 @@ INSERT INTO public.planet VALUES (32, 'Jiggy', true, 'red', 5);
 -- Data for Name: star; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.star VALUES (1, 'Gemin', 'red', false, NULL);
-INSERT INTO public.star VALUES (2, 'Canis', 'Orange', true, NULL);
-INSERT INTO public.star VALUES (3, 'ALtair', 'blue', false, NULL);
-INSERT INTO public.star VALUES (4, 'Altair', 'red', false, NULL);
-INSERT INTO public.star VALUES (5, 'Yunis', 'blue', false, NULL);
-INSERT INTO public.star VALUES (6, 'Pantan', 'red', true, NULL);
+INSERT INTO public.star VALUES (1, 'Gemin', 'red', false, 4);
+INSERT INTO public.star VALUES (2, 'Canis', 'Orange', true, 5);
+INSERT INTO public.star VALUES (3, 'ALtair', 'blue', false, 6);
+INSERT INTO public.star VALUES (4, 'Altair', 'red', false, 7);
+INSERT INTO public.star VALUES (5, 'Yunis', 'blue', false, 8);
+INSERT INTO public.star VALUES (6, 'Pantan', 'red', true, 9);
 
 
 --
